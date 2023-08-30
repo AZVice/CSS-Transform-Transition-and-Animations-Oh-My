@@ -1,3 +1,45 @@
 main {
+    transform: rotate(-5deg);
 
 }
+
+div h2{
+    position: relative;
+    transform: rotate(-8deg);
+    font-style: italic;
+    font-weight: 900;
+    
+}
+
+div h3{
+    position: relative;
+    transform: rotate(-8deg);
+    font-style: italic;
+    font-weight: 900;
+    
+}
+
+
+div h4{
+    position: relative;
+    transform: rotate(-8deg);
+    font-style: italic;
+    font-weight: 900;
+    
+}
+
+
+div h5{
+    position: relative;
+    transform: rotate(-8deg);
+    font-style: italic;
+    font-weight: 900;
+    
+}
+address{
+        position: relative;
+        transform: rotate(-8deg);
+        font-style: italic;
+        font-weight: 900;
+        
+    }
